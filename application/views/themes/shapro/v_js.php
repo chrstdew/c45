@@ -1,0 +1,13 @@
+<script src="{BASE_URL}themes/{THEMES}/js/script.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/jquery.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/bootstrap.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/jquery.appear.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/owl.carousel.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/jquery.shuffle.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/tweenmax.min.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/slick.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/lightcase.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/gmaps.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/jquery.easing.1.3.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/circle-progress.js"></script>
+<script src="{BASE_URL}themes/{THEMES}/assets/js/theme.js"></script>
